@@ -57,7 +57,7 @@ Para validar el pipeline, se realizó una consulta de agregación sobre el datas
 
 ## 📺 Demo y Explicación
 
-Puedes ver el funcionamiento detallado del script y la arquitectura de la base de datos en el siguiente video:
+Podes ver el funcionamiento detallado del script y la arquitectura de la base de datos en el siguiente video:
 
 ▶️ **[Ver video explicativo del proyecto](https://www.youtube.com/watch?v=-jOQH-hUPYY&t=8s)**
 
